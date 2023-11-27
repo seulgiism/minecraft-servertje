@@ -1,6 +1,12 @@
 mods/
 server.jar
 forge-1.20.2-48.0.40-installer.jar
+forge-1.19.2-43.3.0-installer.jar
+forge-1.19.2-43.3.0-installer.jar.log
+forge-1.19.2-43.3.5-installer.jar
+forge-1.19.2-43.3.5-installer.jar.log
+forge-1.20.2-48.0.40-installer.jar
+forge-1.20.2-48.0.40-installer.jar.log
 versions/
 logs/
 world/
